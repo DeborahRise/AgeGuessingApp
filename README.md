@@ -2,7 +2,7 @@
 
 ## About The App
 
-I built this simple app using ReactJs and an Api from ''
+I built this simple app using ReactJs and an Api from '(`https://api.agify.io/?name=${name}`)'
 
 Using some properties like Axious and Use Effect, we have a fun App.
 
